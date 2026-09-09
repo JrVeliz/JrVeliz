@@ -125,36 +125,6 @@ Development and exploration of solutions involving:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JrVeliz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</div>
-
-### 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrVeliz&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JrVeliz&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JrVeliz&theme=react-dark&hide_border=true" />
-
----
-
 ## 🎯 Current Interests
 
 ```text
