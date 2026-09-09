@@ -53,7 +53,6 @@ My current focus is the intersection between **software engineering and artifici
 * ⚙️ Process Automation
 * 🧩 Intelligent Systems Design
 * 📊 Machine Learning
-* 👁️ Computer Vision
 * 🏗️ AI Solutions Architecture
 
 ---
@@ -121,7 +120,6 @@ Development and exploration of solutions involving:
 * Process automation
 * Machine Learning
 * Intelligent recommendation systems
-* Computer Vision
 
 ---
 
@@ -137,8 +135,6 @@ Backend & API Development
 Full Stack Applications
         ↓
 Machine Learning & Data Science
-        ↓
-Computer Vision
         ↓
 Cloud & SaaS Integration
 ```
